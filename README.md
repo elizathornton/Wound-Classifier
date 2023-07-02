@@ -8,8 +8,7 @@ This is an attempt to reproduce the work of this excellent paper: https://www.na
 The dataset is from the AZH Wound and Vascular Center in Milwaukee, Wisconsin. It is published here: https://github.com/uwm-bigdata/Multi-modal-wound-classification-using-images-and-locations/tree/main/dataset
 
 # Discussion of Clincal Use
-<a id='clincal'></a>
-# Clinical Use
+
 
 <sub>*Summary:*<sub>
 - <sub>*Use it in EHRs to suggest coding*<sub>
